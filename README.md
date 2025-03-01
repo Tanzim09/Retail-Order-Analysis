@@ -35,7 +35,7 @@ Using **Pandas**, we performed:
 
 ## SQL Integration
 
-After cleaning the data, we stored it in an SQL database.
+After cleaning the data, it stored it in an SQL database.
 
 ### **SQL Table Schema:**
 

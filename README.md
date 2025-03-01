@@ -6,7 +6,7 @@ This project focuses on analyzing and cleaning retail order data using **Python 
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 
 The dataset contains information about customer orders, including:
 
@@ -22,7 +22,7 @@ The dataset contains information about customer orders, including:
 
 ---
 
-## 🔧 Data Cleaning Process
+## Data Cleaning Process
 
 Using **Pandas**, we performed:  
 ✅ **Handling missing values** – Removed rows with null values in critical columns.  
@@ -33,7 +33,7 @@ Using **Pandas**, we performed:
 
 ---
 
-## 📊 SQL Integration
+## SQL Integration
 
 After cleaning the data, we stored it in an SQL database.
 
@@ -65,7 +65,7 @@ ORDER BY TotalRevenue DESC;
 
 ---
 
-## 📈 Power BI Visualization
+## Power BI Visualization
 
 Built a **Power BI dashboard** which includes:  
 📌 **Total Revenue by Region** – A bar chart displaying revenue across different states.  

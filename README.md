@@ -1,4 +1,4 @@
-# 📌 Retail Order Analysis: Data Cleaning & Visualization
+# 📌 Retail Order Analysis
 
 ## 📖 Project Overview
 
